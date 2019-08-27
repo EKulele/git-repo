@@ -1,5 +1,6 @@
 print("hello world!!!:)");
 print("My darling:)");
 print("самбади угли!!!:)")
+print("milk")
 
 
